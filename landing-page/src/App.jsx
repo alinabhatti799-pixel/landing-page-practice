@@ -35,7 +35,7 @@ function App() {
           </button>
         </>
       ) : (
-        <h2>Thank you! Your request has been submitted.</h2>
+        <h2>Thank you! Your rettquest has been submitted this is best page.</h2>
       )}
     </div>
   );
